@@ -1,5 +1,9 @@
 # Parity DB
 
+## Attention
+
+!No longer maintained. Active development (with different approach) is done here: http://github.com/paritytech/parity-db 
+
 Fast and reliable database, optimised for read operations.
 
 [![Build Status][travis-image]][travis-url]
